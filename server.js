@@ -1,22 +1,31 @@
-import express from "express";
-import bodyParser from "body-parser";
-import dotenv from "dotenv";
-import connectDB from "./config/db";
-
-dotenv.config();
+const express = require('express');
+const mongoose = require('mongoose');
+const cors = require('cors');
+const ngoRoutes = require('./routes/ngoRoutes');
+require('dotenv').config();
 
 const app = express();
+const port = process.env.PORT || 5000;
 
-//middleware
-app.use(bodyParser.json());
+// Middleware
+app.use(cors());
+app.use(express.json());
 
-//routes
-app.use("/api", ngoRoutes);
+// MongoDB Connection
+mongoose
+  .connect(process.env.MONGO_URI)
+  .then(() => console.log('Connected to MongoDB'))
+  .catch(err => console.error('MongoDB connection error:', err));
 
-//connect to db
-connectDB();
+// Routes
+app.use('/api', ngoRoutes);
 
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+// Default Route
+app.get('/', (req, res) => {
+  res.send('Welcome to the Animal Welfare NGO Finder API');
+});
+
+// Start Server
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
 });

@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Society for Prevention of Cruelty to Animals",
+    "address": "Opp. Tis Hazari Court Gate No. 1, Tis Hazari, New Delhi, Delhi 110054",
+    "city": "Delhi",
+    "state": "Delhi",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.co",
+    "location": [30.423214584909452, 77.30836061186935],
+    "ratings": 2.5
+  },
+  {
+    "name": "Chardikala Animal Shelter",
+    "address": "Khasra number 881, Siraspur Rd, near rd farm, Badli Industrial Area, Siraspur, New Delhi, Delhi, 110082",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [31.777794139782795, 77.65992310981477],
+    "ratings": 4.5
+  },
+  {
+    "name": "PAWS",
+    "address": "C9/7, Masoodpur, Badam Singh Market, Vasant Kunj, New Delhi, Delhi 110070",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [32.521918825241336, 76.25367311803316],
+    "ratings": 3.5
+  },
+  {
+    "name": "Kalyani Animal Welfare Foundation",
+    "address": "Kalyani Animal Welfare Foundation",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [32.079222309997306, 76.8484098459344],
+    "ratings": 4
+  },
+  {
+    "name": "Noida Animal Shelter",
+    "address": "Gaushala, Plot No. 8, Sector 94, Near Sector 125 Winter IT Park Amity University, and, Noida, Uttar Pradesh 201301",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [28.553780242932234, 77.32441526259774],
+    "ratings": 4
+  },
+  {
+    "name": "Pamposh Foundation",
+    "address": "Pamposh Foundation, near Bandh Road, Asagarpur Jagir, Noida, Uttar Pradesh 201304",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [77.34678215360529, 28.52742609549687],
+    "ratings": 4
+  },
+  {
+    "name": "Nishabd - Wounded Dogs Shelter Street Dog Care",
+    "address": "near Kushi Akhada, Vishnu Nagar, Part 1, Sector 115, Noida, Uttar Pradesh 201301",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [77.41735729314937, 28.5804914676231],
+    "ratings": 4
+  },
+  {
+    "name": "Save A Stray",
+    "address": "Sk 27 D, Sector 116, Noida, Uttar Pradesh 201301",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [77.39641460528348, 28.574461545433742],
+    "ratings": 4.5
+  },
+  {
+    "name": "Veda House",
+    "address": "Sec-159 , Jhatta, plot, Street No. 1, Noida, Uttar Pradesh 201310",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [77.45349767736269, 28.473938491451023],
+    "ratings": 5
+  },
+  {
+    "name": "Helping Hands Animal Welfare Foundation",
+    "address": "Plot No.198-A, Gujarati Society, Sion West, Sion, Mumbai, Maharashtra 400022",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [72.86119134372207, 19.053142340152363],
+    "ratings": 4.5
+  },
+  {
+    "name": "Animal Matter To Me (AMTM) - Animal Hospital",
+    "address": "Animal Matter To Me (AMTM) - Animal Hospital",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [72.79333148023348, 19.183359313731966],
+    "ratings": 4.5
+  },
+  {
+    "name": "Youth Organization in Defence of Animals",
+    "address": "Sub Plot No. 29, Bharat Co-Op Hsg Society, Pragati bungalow, Jay, Rd No. 3, near Cutting Crew Films, Khar West, Mumbai, Maharashtra 400052",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [72.83978664372208, 19.07603502739122],
+    "ratings": 4
+  },
+  {
+    "name": "Animal Rescue & Shelter Foundation",
+    "address": "3, PARTH CHS, 8-A, BUILDINGG R, MMRDA Colony, Poonam Nagar, Andheri East, Mumbai, Maharashtra 400093",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [72.94347011479583, 19.292638372120553],
+    "ratings": 4
+  },
+  {
+    "name": "Raksha Animal Welfare Center",
+    "address": "Raksha Animal Welfare Center",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [72.8239937971347, 18.99944256970988],
+    "ratings": 5
+  },
+  {
+    "name": "MAKE NEW LIFE",
+    "address": "Chhatrapati Sambhaji Nagar, Yashwantrao Chavan Nagar, Pune, Maharashtra 411043",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [73.85526925039832, 18.477721255542626],
+    "ratings": 4.5
+  },
+  {
+    "name": "RESQ Charitable Trust",
+    "address": "Plot No. 3906, Paud, 115, Mulshi Rd, Hill Town, Chandani Chowk, Bavdhan, Pune, Maharashtra 411022",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [73.77066034461292, 18.49696076755491],
+    "ratings": 4.5
+  },
+  {
+    "name": "Animal Rescue Trust",
+    "address": "ART Shelter, Behind Raj Washing Centre Sonarwada Manjari khurd Manjri Theur, Road, Pune, Maharashtra 412307",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [73.99530889861762, 18.536440408139345],
+    "ratings": 4
+  },
+  {
+    "name": "Dodo Animal Rescue Team (D.A.R.T ) Foundation",
+    "address": "Paud Road, Bhusari Colony, Kothrud, Pune, Maharashtra 411038",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [73.79126257635725, 18.513827027667872],
+    "ratings": 5
+  },
+  {
+    "name": "Paws Care",
+    "address": "Jakat naka, Porwal Rd, Pune, Maharashtra 411047",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [73.90924325966492, 18.61242251287327],
+    "ratings": 5
+  },
+  {
+    "name": "Prakriti Hope For Stray Animals and Nature",
+    "address": "Prakriti Shelter, Amravat road, near Barkheda Pathani, Amravat village, Barkhera Pathani, Bhopal, Madhya Pradesh 462010",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [23.21186214282646, 77.47134952149862],
+    "ratings": 4.5
+  },
+  {
+    "name": "Aasra",
+    "address": "154, Jail Rd, Behind Pashu Hospital, Jhapa Colony, Jahangirabad, Bhopal, Madhya Pradesh 462008",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [23.245619806029545, 77.41916446320985],
+    "ratings": 4
+  },
+  {
+    "name": "Animals With Humanity",
+    "address": "319, Ground Floor, B sector, Sarvdharm Colony, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [23.19040424015557, 77.41916446320985],
+    "ratings": 4
+  },
+  {
+    "name": "Abhimanyu Memorial Animal Welfare Foundation",
+    "address": "MIG-6, E8, Akashganga Colony, Shahpura, Bhopal, Madhya Pradesh 462039",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [23.198451357299522, 77.43392734154155],
+    "ratings": 5
+  },
+  {
+    "name": "Navodaya Vet Society",
+    "address": "6947+5J6, Kopal, Bhopal, Madhya Pradesh 462044",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [23.208881275192134, 77.36332575405075],
+    "ratings": 4
+  },
+  {
+    "name": "Charlie's Animal Rescue Centre (CARE)",
+    "address": "Survey No. 124/1 Mittaganahalli Cross, Kogilu, Near Reva College, Yelahanka, Bengaluru, Karnataka 560064",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [13.243563717471403, 77.62781678715203],
+    "ratings": 4.5
+  },
+  {
+    "name": "Syeraa Animal Rescue Centre",
+    "address": "No. 166, behind Teachers colony, Bidarahalli, Bengaluru, Karnataka 560049",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [13.081278381037844, 77.71120522456897],
+    "ratings": 5
+  },
+  {
+    "name": "Akhil Karnataka Prani Daya Sangh Gaushala",
+    "address": "80 Feet Rd, next to BTS Bus Depot Road, Opposite HDFC BANK, 6th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [12.97749849302853, 77.62082260664667],
+    "ratings": 5
+  },
+  {
+    "name": "Sarvoham Animal Foundation",
+    "address": "No.12, Aishwarya Layout, Jambusavari Dinne Main Rd, Royal County, 8th Phase, J. P. Nagar, Bengaluru, Kothnur, Karnataka 560083",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [12.89570198084287, 77.5788592483256],
+    "ratings": 4.5
+  },
+  {
+    "name": "Animal Rights Fund",
+    "address": "WF9F+WVM, Unnamed Road, BSM Extension, Kengeri Satellite Town, Bengaluru, Karnataka 560060",
+    "city": "Bengaluru",
+    "state": "Karnatakac",
+    "services": "Sheltes",
+    "email": "sahajgangsar@gmail.com",
+    "location": [77.4723368772029, 12.966488987583629],
+    "ratings": 5
+  },
+  {
+    "name": "SANS Animal Welfare Trust",
+    "address": "Kil Ayanambakkam, Chennai, Tamil Nadu 600095",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [12.966488987583629, 77.4723368772030],
+    "ratings": 4.5
+  },
+  {
+    "name": "Society For The Prevention Of Cruelty To Animals",
+    "address": "New No. 67, Old, No. 34, Vepery High Rd, Chennai, Tamil Nadu 600007",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [12.966488987583629, 77.4723368772031],
+    "ratings": 3.6
+  },
+  {
+    "name": "Scan Foundation",
+    "address": "Jayapradha Avenue, Bharatheeswarar Colony, Bharatheswarar Colony, Choolaimedu, Chinnavenmani, Chennai, Tamil Nadu 600024",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [13.073727208621378, 80.22083290713475],
+    "ratings": 4
+  },
+  {
+    "name": "Heaven For Animals NGO office",
+    "address": "",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [13.106498557844642, 80.21190651558534],
+    "ratings": 5
+  },
+  {
+    "name": "Dog & Cat Adoption centre/Shelter in Chennai- Yahshua Animal Trust",
+    "address": "No:7, 11, Kishkintha Main Rd, near Sai Ram Engineering College, West Tambaram, Tambaram, Chennai, Tamil Nadu 600044",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "services": "Shelter",
+    "email": "sahajgangwar@gmail.com",
+    "location": [12.950628664391205, 80.1054764624964],
+    "ratings": 4
+  }
+]
