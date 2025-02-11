@@ -2,22 +2,7 @@ const express = require("express");
 const router = express.Router();
 const Incident = require("../models/incidentModel");
 const NGO = require("../models/ngoModel");
-const cloudinary = require("../config/cloudinary");
 const transporter = require("../config/emailConfig");
-const multer = require("multer");
-const { CloudinaryStorage } = require("multer-storage-cloudinary");
-const crypto = require("crypto");
-const mongoose = require("mongoose");
-
-// Configure Multer and Cloudinary Storage
-const storage = new CloudinaryStorage({
-  cloudinary: cloudinary,
-  params: {
-    folder: "incident-reports",
-    allowed_formats: ["jpg", "jpeg", "png"],
-  },
-});
-const upload = multer({ storage });
 
 router.get("/ngos", async (req, res) => {
   const { city, lat, lng } = req.query;
