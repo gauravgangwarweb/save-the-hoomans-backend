@@ -3,6 +3,7 @@ const router = express.Router();
 const Incident = require("../models/incidentModel");
 const NGO = require("../models/ngoModel");
 const transporter = require("../config/emailConfig");
+const { imagekit } = require("../utils/imagekitUtils");
 
 router.get("/ngos", async (req, res) => {
   const { city, lat, lng } = req.query;
@@ -121,5 +122,15 @@ router.post("/report-incident", async (req, res) => {
     res.status(500).json({ error: "Failed to report incident" });
   }
 });
+
+router.get("/image-auth", async(req, res) => {
+  try {
+    const auth = imagekit.getAuthenticationParameters();
+    res.json(auth);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ message: "Failed to authenticate user" });
+  }
+})
 
 module.exports = router;
